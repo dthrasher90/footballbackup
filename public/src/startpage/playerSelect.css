@@ -1,0 +1,25 @@
+body{
+  font-family: "Press Start 2P", cursive;
+  background: black;
+  color: steelblue;
+  overflow: hidden;
+}
+
+
+table{
+  background-color: white;
+  margin: 0 auto;
+}
+h1 {
+    text-align: center;
+    font-size: 70px;
+}
+
+th{
+  text-align: left;
+  padding: 3px;
+}
+td, tr{
+  padding: 3px;
+
+}
